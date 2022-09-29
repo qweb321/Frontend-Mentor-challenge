@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-(![](images/screenshot.JPG))
+![](images/screenshot.JPG)
 
 ## My process
 
